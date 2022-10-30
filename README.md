@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meidencore
+- 👋 Hi, I’m @meidencore
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.JS and Node.JS
 - 💞️ I’m looking to collaborate on any Web development project for starters
