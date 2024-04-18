@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meidencore
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.JS and Node.JS
+- 👀 I’m a Web Development
+- 🌱 I’m currently working with React.JS and Express.JS
 - 💞️ I’m looking to collaborate on any Web development project for starters
 - 📫 How to reach me danieleverdale@gmail.com
 
